@@ -1,0 +1,5 @@
+firewalls:
+  - host: 10.0.0.30
+    username: admin
+    password: test
+    device_type: cisco_asa
